@@ -103,7 +103,7 @@ The raw dataset required significant cleaning via **Power Query** before analysi
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/data-professionals-survey.git
+   git clone https://github.com/vasanthkumarr-30/data-professionals-survey.git
    cd data-professionals-survey
    ```
 
