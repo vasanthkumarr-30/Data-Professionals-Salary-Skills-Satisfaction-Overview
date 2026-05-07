@@ -162,12 +162,12 @@ The raw dataset required significant cleaning via **Power Query** before analysi
 
 ## 👤 Author
 
-**[Your Name]**
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- Vasanth Kumar R
+- 💼 LinkedIn: www.linkedin.com/in/vasanth-kumar-r-125092229
 - 📧 Email: your.email@gmail.com
-- 🐙 GitHub: [github.com/yourusername](https://github.com/yourusername)
 
----
+
+
 
 ## 📄 License
 
