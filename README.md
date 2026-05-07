@@ -103,7 +103,7 @@ The raw dataset required significant cleaning via **Power Query** before analysi
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/vasanthkumarr-30/data-professionals-survey.git
+   git clone https://github.com/YOUR_USERNAME/data-professionals-survey.git
    cd data-professionals-survey
    ```
 
@@ -162,12 +162,12 @@ The raw dataset required significant cleaning via **Power Query** before analysi
 
 ## 👤 Author
 
-- Vasanth Kumar R
-- 💼 LinkedIn: www.linkedin.com/in/vasanth-kumar-r-125092229
+**[Your Name]**
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 - 📧 Email: your.email@gmail.com
+- 🐙 GitHub: [github.com/yourusername](https://github.com/yourusername)
 
-
-
+---
 
 ## 📄 License
 
