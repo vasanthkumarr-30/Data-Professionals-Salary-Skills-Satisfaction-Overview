@@ -19,23 +19,23 @@ The end result is a **clean, executive-ready dashboard** that transforms raw, me
 
 ## 📁 Repository Structure
 
-```
 data-professionals-survey/
 │
-├── 📂 data/
-│   ├── Row_Data_Set.xlsx           # Original raw survey data (630 responses)
-│   └── Cleaned_Data_Set.xlsx       # Cleaned & transformed dataset
+├── 📂 Cleaned Dataset/
+│   └── Cleaned_Data_Set.xlsx           # Cleaned & transformed dataset
 │
-├── 📂 dashboard/
-│   └── Data_Professional_Survey.pbix   # Power BI report file
+├── 📂 Power BI Dashboard/
+│   └── Data_Professional_Survey.pbix   # Power BI dashboard/report file
 │
-├── 📂 assets/
-│   └── data_professional_Survey.png    # Dashboard screenshot preview
+├── README.md                           # Project documentation
 │
-└── README.md
-```
 
----
+│├── 📂 Raw Dataset/
+│   └── Row_Data_Set.xlsx               # Original raw survey dataset
+│
+└── 📂 Assets/
+    └── data_professional_Survey.png    # Dashboard preview image
+```
 
 ## 🛠️ Tools & Technologies
 
